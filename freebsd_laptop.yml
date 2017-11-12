@@ -1,0 +1,6 @@
+---
+- hosts: freebsd
+  become: yes
+  roles:
+    - freebsd_pkgs_base
+    - freebsd_pkgs_xorg

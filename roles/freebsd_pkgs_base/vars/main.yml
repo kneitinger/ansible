@@ -1,0 +1,23 @@
+---
+pkgs:
+  - bash
+  - bash-completion
+  - beadm
+  - cmake
+  - curl
+  - ghc
+  - git
+  - gnupg
+  - hs-ShellCheck
+  - htop
+  - jq
+  - lsof
+  - neovim
+  - python2
+  - python3
+  - subversion
+  - sudo
+  - syncthing
+  - tmux
+  - uncrustify
+  - valgrind
