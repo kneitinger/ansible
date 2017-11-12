@@ -13,6 +13,7 @@ pkgs:
   - jq
   - lsof
   - neovim
+  - pkgconf
   - python2
   - python3
   - subversion
